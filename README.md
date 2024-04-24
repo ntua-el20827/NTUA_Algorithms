@@ -1,6 +1,5 @@
 # Algorithms_Lab
-- ΕΜΠ - ΣΗΜΜΥ
-- Εργαστηριακό μέρος του μαθημάτος Αλγόριθμοι και Πολυπλοκότητα (Ροη Λ) του 7ου Εξαμήνου
-- Περιέχονται εκφωνήσεις και λύσεις
-- Επίσης περιέχονται tests για τα εργαστήρια 1 και 3 (αρχεία input.txt και output.txt), καθώς και τα εκτελέσιμα .sh αρχεία για την δοκιμή τους. 
-- Γεωργακόπουλος Γεωργιος
+- NTUA - ECE
+- Laboratory part of the Algorithms and Complexity course (Flow Λ) of the 7th Semester
+- Contains exercises and solutions
+- Also included are tests for laboratories 1 and 3 (files input.txt and output.txt), as well as the executable .sh files for their testing.
